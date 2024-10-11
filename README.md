@@ -1,4 +1,4 @@
-# Hash Cracker
+# hash_racker
 
 A simple hash cracker written in Python. This tool allows you to crack various hash types using a wordlist and the specified hash algorithm.
 
@@ -17,7 +17,7 @@ A simple hash cracker written in Python. This tool allows you to crack various h
 
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/Erasmo-Dev/hashCracker.git
+   git clone https://github.com/Erasmo-Dev/hash_cracker.git
    cd hash-cracker
 
     Ensure you have Python 3.x installed.
