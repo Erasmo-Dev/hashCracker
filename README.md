@@ -1,4 +1,4 @@
-# hash_racker
+# hash_cracker
 
 A simple hash cracker written in Python. This tool allows you to crack various hash types using a wordlist and the specified hash algorithm.
 
